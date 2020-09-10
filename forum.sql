@@ -1,2 +1,2 @@
-mysql> create table redhat (platform varchar(20));
-mysql> insert into redhat values ('virtual machine');
+create table redhat (platform varchar(20));
+insert into redhat values ('virtual machine');
